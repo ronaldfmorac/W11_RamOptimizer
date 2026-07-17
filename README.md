@@ -32,7 +32,7 @@ The application balances a clean interface built on `customtkinter` with real-ti
 ### 1. Main Dashboard Interface
 The primary GUI offers a clean, dark-themed layout displaying running applications, real-time memory usage profiles, and administrative control hooks.
 
-![W11 RamOptimizer Main Dashboard Interface]
+W11 RamOptimizer Main Dashboard Interface
 <img width="1918" height="1003" alt="W11 RamOptimizer Main Dashboard Interface" src="https://github.com/user-attachments/assets/38a1af57-1dcb-4331-98a1-390f1ca4b424" />
 
 *   **For Everyday Users:** Simple visual indicators (🔒 / 🔓), safety profile selection (Gamer Mode, Turbo Mode), automated "Fix-all" actions, and hover-triggered tooltips explaining what each component does.
@@ -41,17 +41,17 @@ The primary GUI offers a clean, dark-themed layout displaying running applicatio
 ### 2. AI Heuristic Classification
 Hovering or evaluating system elements triggers automated Generative AI categorization tooltips, detailing the process viability and safety tiers.
 
-![AI Heuristic Process Classification and Tooltips]
+AI Heuristic Process Classification and Tooltips
 <img width="1920" height="1080" alt="AI Heuristic Process Classification and Tooltips" src="https://github.com/user-attachments/assets/7b0dc1e8-1190-42cc-838f-7a49c6a732d3" />
 ### 3. Real-Time RAM Release & SysAdmin Console
 The internal elevated terminal logs execution streams (such as forced process terminations) while the top bar dynamically reflects the immediate recovery of unallocated system memory.
 
-![SysAdmin Console and Dynamic RAM Liberation]
+SysAdmin Console and Dynamic RAM Liberation
 <img width="1920" height="1080" alt="SysAdmin Console and Dynamic RAM Liberation" src="https://github.com/user-attachments/assets/8139fbc5-a7e9-4907-a822-88f1da7a9697" />
 ### 4. Interactive Deep-Dive Auditing
 Users can select any active process, background task, or Windows Service across tabs and prompt the Gemini core to receive an expert-level breakdown analyzing whether it is safe to suspend or uninstall.
 
-![Interactive AI System Auditing Window]
+Interactive AI System Auditing Window
 <img width="1920" height="1080" alt="Interactive AI System Auditing Window" src="https://github.com/user-attachments/assets/3b2e7171-5057-406c-82a0-53c1eadeec53" width="100%" />
 
 ## 🛠️ Software Architecture & Design Patterns
